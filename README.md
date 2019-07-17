@@ -4,7 +4,7 @@ XAI 실전 연습을 위한 데이터 예제
 
 * 저자: Jaehyun Ahn ([sogosonnet@gmail.com](mailto:sogoaonnet@gmail.com))
 
-## 1. 신용대출 분석 데이터
+## 1. 신용대출 분석 데이터(loan)
 
 ### 1.1. 데이터 설명
 
@@ -42,7 +42,7 @@ Copyright(c)2019 Jaehyun Ahn All rights reserved.
 
 <hr>
 
-## 2. JAFFE 감정분석 데이터
+## 2. JAFFE 감정분석 데이터(Emotion)
 
 ![JAFFE example](http://www.kasrl.org/KA_004.jpg)
 JAFFE 감정분석 데이터 중 놀람(SUP)에 대응하는 이미지 한 장.
