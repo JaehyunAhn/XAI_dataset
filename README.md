@@ -55,7 +55,7 @@ JAFFE(The Japanese Femail Facial Expression) 데이터베이스는 일본인 여
 
 JAFFE 데이터베이스는 연구 목적으로만 자유롭게 사용될 수 있으며, 각 사용자들은 모두 라이센스에 동의해야 한다. 라이센스에 대한 동의는 [이 링크](http://www.kasrl.org/jaffedb_info.html)에서 하고 다운 받을 수 있다.
 
-위 링크에서 라이센스 사용에 대한 동의를 한 다음 이미지를 다운 받은 다음 "./Ch2.emotion/jaffe"라고 하는 하위폴더에 이미지를 삽입한다.
+위 링크에서 라이센스 사용에 대한 동의를 한 이후 이미지를 다운 받고 "./Ch2.emotion/jaffe"라는 하위폴더에 이미지를 삽입한다.
 
 ### 2.3. 칼럼 설명
 
