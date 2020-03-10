@@ -80,9 +80,11 @@ JAFFE 이미지 라이센스는 Michel J. Lyons 교수에게 있다. 이미지�
 Michael J. Lyons, Shigeru Akemastu, Miyuki Kamachi, Jiro Gyoba.
 Coding Facial Expressions with Gabor Wavelets, 3rd IEEE International Conference on Automatic Face and Gesture Recognition, pp. 200-205 (1998).
 
-## 3. 챕터별 코랩 데이터
+## 3. 단원별 코랩 데이터
 
-|챕터|내용|URL|
+구글 코랩(Google Colab)은 브라우저에서 파이썬을 작성하고 실행할 수 있는 클라우드 기반 주피터 노트북 개발 환경입니다. 코랩과 인터넷만 있으면 예제 코드를 직접 따라하고 실행할 수 있습니다.
+
+|단원|내용|URL|
 |---|:----:|---:|
 |04 |의사 결정 트리|http://bit.ly/391EmTS|
 |05| 대리 분석|http://bit.ly/2RNP6zv|
