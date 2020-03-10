@@ -1,8 +1,8 @@
 # XAI 실전 연습을 위한 데이터와 예제
 
-XAI 실전 연습을 위한 데이터 예제
+XAI 실전 연습을 위한 데이터 예제.
 
-* 저자: Jaehyun Ahn ([sogosonnet@gmail.com](mailto:sogoaonnet@gmail.com))
+`Jaehyun Ahn` ([sogosonnet@gmail.com](mailto:sogoaonnet@gmail.com))
 
 ## 1. 신용대출 분석 데이터(loan)
 
@@ -45,6 +45,7 @@ Copyright(c)2019 Jaehyun Ahn All rights reserved.
 ## 2. JAFFE 감정분석 데이터(Emotion)
 
 ![JAFFE example](http://www.kasrl.org/KA_004.jpg)
+
 JAFFE 감정분석 데이터 중 놀람(SUP)에 대응하는 이미지 한 장.
 
 ### 2.1. 데이터 설명
@@ -78,3 +79,16 @@ JAFFE 이미지 라이센스는 Michel J. Lyons 교수에게 있다. 이미지�
 
 Michael J. Lyons, Shigeru Akemastu, Miyuki Kamachi, Jiro Gyoba.
 Coding Facial Expressions with Gabor Wavelets, 3rd IEEE International Conference on Automatic Face and Gesture Recognition, pp. 200-205 (1998).
+
+## 3. 챕터별 코랩 데이터
+
+|챕터|내용|URL|
+|---|:----:|---:|
+|04 |의사 결정 트리|http://bit.ly/391EmTS|
+|05| 대리 분석|http://bit.ly/2RNP6zv|
+|06| 필터 시각화| http://bit.ly/37M96YV|
+|07| LRP| http://bit.ly/37SDpwX|
+|08| 실전 분석1: 의사 결정 트리와 XAI| http://bit.ly/2vBcYxB 또는 <br> 현재 Github Repo의 `Ch1.Loan` 참고|
+|09| 실전 분석2: LRP와 XAI| 현재 Github Repo의 `Ch2.Emotion` 참고|
+
+
